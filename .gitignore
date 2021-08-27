@@ -1,0 +1,5 @@
+# npmjs package
+/npm
+
+# local component testing
+/testing

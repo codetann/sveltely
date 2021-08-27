@@ -1,0 +1,15 @@
+{
+  "name": "sveltely",
+  "version": "1.0.0",
+  "description": "Open source ui library built for svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "svelte"
+  ],
+  "author": "Tanner Thomas",
+  "license": "ISC"
+}
